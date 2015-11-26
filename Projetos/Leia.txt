@@ -1,0 +1,1 @@
+Para abrir o codigo fonte entre no link: ai2.appinventor.mit.edu e importe o .aia
